@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the convention of estates in Scotland, concerning their armie: with their reasons for continuance therof untill March next; and in what manner the officers and souldiers shall be paid. Dated at Edinburgh October 15, 1647. Together with an exhortation of the Generall Assembly of the Kirk of Scotland, unto the Scots Merchants and other their country-people scattered in Poland, Swedland, Denmark and Hungary.</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92544</idno>
+            <idno type="STC">Wing S1214A</idno>
+            <idno type="STC">Thomason E412_3</idno>
+            <idno type="STC">ESTC R204462</idno>
+            <idno type="EEBO-CITATION">99863952</idno>
+            <idno type="PROQUEST">99863952</idno>
+            <idno type="VID">161241</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92544)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161241)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E412[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the convention of estates in Scotland, concerning their armie: with their reasons for continuance therof untill March next; and in what manner the officers and souldiers shall be paid. Dated at Edinburgh October 15, 1647. Together with an exhortation of the Generall Assembly of the Kirk of Scotland, unto the Scots Merchants and other their country-people scattered in Poland, Swedland, Denmark and Hungary.</title>
+                  <author>Scotland. Convention of Estates.</author>
+                  <author>Church of Scotland. General Assembly.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Evan Tyler, printer to the King's most Excellent Majestie ;</publisher>
+                  <publisher>for Robert Bostock,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <pubPlace>And reprinted at London :</pubPlace>
+                  <date>M DC XLVI. [1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Customs and practices --  Early works to 1800.</term>
+               <term>Scotland. --  Army --  Pay, allowances, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161241:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE Convention of Eſtates in <hi>Scotland,</hi> concerning their ARMIE: With their reaſons for continuance thereof untill March next; And in what manner the Officers and Souldiers ſhall be paid. <hi>Dated at <hi>Edinburgh</hi> October</hi> 15, 1647.</p>
+            <p>
+               <hi>Together with</hi> An Exhortation of the Generall Aſſembly of the Kirk of <hi>SCOTLAND,</hi> unto the Scots Mer<g ref="char:EOLhyphen"/>chants and other their Country-people ſcattered in <hi>Poland, Swed<g ref="char:EOLhyphen"/>land, Denmark</hi> and <hi>Hungary.</hi>
+            </p>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>Evan Tylar,</hi> Printer to the King's moſt Excellent Majeſtie. And reprinted at <hi>London</hi> for ROBERT BOSTOCK. MDCXLVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration_of_the_Convention_of_Estates">
+            <pb facs="tcp:161241:2"/>
+            <pb n="1" facs="tcp:161241:2"/>
+            <opener>
+               <dateline>At <hi>Edinburgh</hi> 
+                  <date>Octob. 15, 1647.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Committee of Eſtates being frequent<g ref="char:EOLhyphen"/>ly met, to take into conſideration the disbanding of the Army preſently with<g ref="char:EOLhyphen"/>in the Kingdom, according to a former Act of the Committee of the eleventh of Sephember laſt; and conſidering the dangers at this time imminent to Religion, His Ma<g ref="char:EOLhyphen"/>jeſties Perſon and Authority, the Union betwixt the Kingdoms, and Peace of this Kingdom, which were fully repreſented to them in the Remonſtrance of the Commiſſioners of the Generall Aſſembly, in the Letters from their Commiſſioners at <hi>London</hi> and in the informations ſent hither from ſeverall places of the Kingdom: And having at length debated there<g ref="char:EOLhyphen"/>upon<g ref="char:punc">▪</g> do finde it neceſſary, in regard thereof, that the Army be kept up till the meeting of Parliament in March next to come come: And do therefore remit and re<g ref="char:EOLhyphen"/>fer the conſideration of the diſbanding the Army till that meeting. And in the mean time, that the bur<g ref="char:EOLhyphen"/>den of the entertainment of the Army do not appear greater then really it is, The Committee of Eſtates have thought fit to make known to all His Majeſties good Subjects, That this day the Lord Generall, the
+<pb n="2" facs="tcp:161241:3"/>Lieutenant Generall, and Generall Majors, to teſtifie the willingneſſe of the Army to eaſe the Kingdom as much as can be; Have for themſelves, in th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me of the whole Officers and Souldiers under their com<g ref="char:EOLhyphen"/>mand, and contained in the eſtabliſhment of the Ar<g ref="char:EOLhyphen"/>my, freely quit and diſcharged to the Kingdom the proportion of their Pay underwritten, from the tenth of October inſtant, to the tenth day of March next to come, <hi>viz.</hi> the Foot ſouldier quits daily twelve pen<g ref="char:EOLhyphen"/>nies Scots, the Trooper two ſhillings Scots, the Dra<g ref="char:EOLhyphen"/>gooners proportionally; and the Officers above a Lieutenant quits the third part of their Pay; Which offer the Committee hath accepted, and with that de<g ref="char:EOLhyphen"/>duction ordains the Armie be entertained from the ſaid tenth of October, till the ſaid tenth day of March next, according to the rule of Maintenance, the ac<g ref="char:EOLhyphen"/>counts whereof is to come in to the Generall Com<g ref="char:EOLhyphen"/>miſſary as formerly: And the retention of the Annu<g ref="char:EOLhyphen"/>al rents to be proportionable to the Maintenance: And whereas by the foreſaid Act of the eleventh of September, the Shires were ordained to advance pre<g ref="char:EOLhyphen"/>ſently new three Months Maintenance; The Com<g ref="char:EOLhyphen"/>mittee in regard of the courſe taken by this Act, diſ<g ref="char:EOLhyphen"/>chargeth the advance of the ſaid three months Main<g ref="char:EOLhyphen"/>tenance, and all execution to paſſe for payment there<g ref="char:EOLhyphen"/>of. And ordains their preſents to be Printed, and pub<g ref="char:EOLhyphen"/>liſhed at the Market Croſſes of the ſeverall Burrows of the Kingdom, and to be ſent to the Committees of War of the Shires, that none pretend ignorance thereof.</p>
+            <closer>
+               <signed>Arch. Primeroſe.</signed>
+            </closer>
+         </div>
+         <div type="exhortation_of_the_General_Assembly">
+            <pb n="3" facs="tcp:161241:3"/>
+            <opener>
+               <salute>Unto the Scots Merchants and others our Country-people ſcattered in <hi>Poleland, Swedland, Denmark,</hi> and <hi>Hungary;</hi> The General Aſſembly of the Kirk of <hi>Scotland</hi> wiſheth grace, mercy and peace from God our Father, and from the Lord JES<g ref="char:V">Ʋ</g>S CHRIST.</salute>
+            </opener>
+            <p>ALthough this Kirk of <hi>Scotland;</hi> whiles ſpoiled of her Liberties under the Prelatical tyranny, had much difficulty and wreſtling to preſerve the true Reformed Religion from being quite extinguiſhed among our ſelves; yet ſince the mighty and out-ſtretched arm of the Lord our God hath brought us out of that <hi>Egypt,</hi> and hath reſtored to us well-conſtituted and free national Synods, It hath been our deſire and endeavour to ſet forward the Kingdom of our Lord Jeſus Chriſt, and the purity of his Ordinances, not onely thorowout this Nation,
+<pb n="4" facs="tcp:161241:4"/>but in other parts alſo, ſo far as God gave us a call and opportunity, and opened a way unto us. And among other things of this nature, we have more particular<g ref="char:EOLhyphen"/>ly taken into our ſerious thoughts the ſad and lamen<g ref="char:EOLhyphen"/>table condition of many thouſands of you our Coun<g ref="char:EOLhyphen"/>try-men, who are ſcattered abroad as ſheep having no Shepherd, and are through the want of the means of knowledge, grace and ſalvation, expoſed to the greateſt ſpiritual dangers, whether through igno<g ref="char:EOLhyphen"/>rance, or through manifold tenta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions to errours and falſe Religions, or through the occaſions and ſnares of ſin.</p>
+            <p>We have therefore thought it incumbent to us to put you in minde of the one thing neceſſary, while you are ſo careful and troubled about the things of the world. And although we do not diſallow your going abroad to follow any lawful calling or way of livelyhood, yet ſeeing it cannot profit a man although he ſhould gain the whole world and loſe his own ſoul, and ſeeing you have travelled ſo far, and taken ſo much pains to get uncertain riches, which cannot deliver in the day of the wrath of the Lord, and which men know not who ſhall inherit: We do from our affection to the ſalvation of your immortal ſouls, moſt earneſtly beſeech and warn you to cry after knowledge, and lift up your voice for underſtanding, ſeeking her as ſilver, and ſearching for her as for hid treaſures, and ſo play the wiſe Merchants in purcha<g ref="char:EOLhyphen"/>ſing the Pearl of price, and in laying up a ſure foun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation for the time to come, by acquainting your ſouls with Jeſus Chriſt, and by faith taking hold of him, whoſe free grace is now offered and held out to
+<pb n="5" facs="tcp:161241:4"/>ſinners, excluding none among all the kinreds of the earth who will come unto him. God forbid that you ſhould let ſlip the time and offers of grace, or neglect any warning of this kinde ſent to you in the Name of the Lord. We ſhall hope better things of you, &amp; that knowing the acceptable time and the day of ſalvation will not always laſt, but the Lord Jeſus is to be revea<g ref="char:EOLhyphen"/>led from heaven with his mighty Angels, in flaming fire taking vengeance on them that know not God, and obey not the Goſpel, you will the rather beſtir your ſelves timely and with all diligence to ſeek the Lord while he may be found, to endeavour that you may have among you the ordinary means of grace and ſalvation, to pray that God would give you Pa<g ref="char:EOLhyphen"/>ſtours according to his heart, who ſhall feed you with knowledge and underſtanding, to conſult alſo and a<g ref="char:EOLhyphen"/>gree among your ſelves, with conſent of your Supe<g ref="char:EOLhyphen"/>riours under whom you live (whoſe favour and good will we truſt will not be wanting to you in ſo good and neceſſary a work) for ſetting up the Worſhip of God and Eccleſiaſtical Diſcipline among you accord<g ref="char:EOLhyphen"/>ing to the Form eſtabliſhed and received in this your mother Kirk, and for a way of ſetled maintenance to Paſtours and Teachers: Which if you do, our Com<g ref="char:EOLhyphen"/>miſſioners appointed to meet from time to time in the interval betwixt this and the next national Aſ<g ref="char:EOLhyphen"/>ſembly, will be ready (upon your deſire made known to them) to provide ſome able and godly Miniſters for you, as likewiſe to communicate to you our Dire<g ref="char:EOLhyphen"/>ctory for the publike Worſhip of God, and our form of Eccleſiaſtical Government and Diſcipline; toge<g ref="char:EOLhyphen"/>ther with the Confeſſion of Faith and Catechiſm.</p>
+            <pb n="6" facs="tcp:161241:5"/>
+            <p> And in the mean time, we exhort you that <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> neglect not the worſhip of God in ſecret and in your families, and that ye continue ſtedfaſt in the profeſ<g ref="char:EOLhyphen"/>ſion of that Faith in which ye were baptized, and by a godly, righteous and ſober converſation adorn the Goſpel; and withal, that diſtance of the place make you not the leſſe ſenſible of your Countries ſuffer<g ref="char:EOLhyphen"/>ings, both in reſpect of the juſt judgements of God for the ſins of the Land, &amp; in reſpect of the malice of enemies for the common Cauſe and Covenant of the three Kingdoms, of which happie Conjunction, not<g ref="char:EOLhyphen"/>withſtanding we do not repent us, but by the grace of God ſhall continue faithful and ſtedfaſt therein.</p>
+            <p>This Letter we have thought fit to be printed and publiſhed, that it may be with the greater eaſe and conveniency conveyed to the many ſeveral places of your habitation or traffique. Conſider what we have ſaid, and the Lord give you underſtanding in all things. The grace of our Lord Jeſus Chriſt be with you all, Amen.</p>
+            <closer>
+               <dateline>EDINBURGH, <date>Auguſti 31. 1647.</date>
+               </dateline>
+               <signed>
+                  <hi>Subſcribed in the name of the General Aſſembly of the Kirk of Scotland.</hi> M. <hi>Robert Douglaſſe</hi> Moderator.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
